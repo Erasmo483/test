@@ -1,2 +1,2 @@
 # test
-repo di test per il webinal
+repo di test per il webinar
